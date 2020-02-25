@@ -1,0 +1,36 @@
+.hearder-left {
+    display:flex;
+    font-size: 16 px;
+    margin-bottom: auto;
+    word-spacing: 45px;
+}
+.hearder-right {
+    margin-right: auto;
+    margin-left: 150px;
+}
+
+.logo {
+    margin-right: 35px;
+}
+body {
+     margin: 0px;
+    padding: 0px;
+    font-family: Verdana;
+    background-image: url();
+    font-style: italic
+}
+hearder {
+    width: 1300px;
+    display:flex;
+    flex-direction: row;
+    margin: auto;
+    margin-top: 55px;
+}
+main{
+    height: auto;
+    margin-top: 30px;
+    padding: 30px;
+}
+.text-left{
+  height: 300px ;   
+}
